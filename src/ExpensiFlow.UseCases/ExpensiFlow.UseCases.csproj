@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <Sdk Name="Microsoft.Build.CentralPackageVersions" Version="2.1.3"/>
+    
+    <ItemGroup>
+        <PackageReference Include="Ardalis.Result"/>
+    </ItemGroup>
+    
+    <ItemGroup>
+      <ProjectReference Include="..\ExpensiFlow.Domain\ExpensiFlow.Domain.csproj" />
+    </ItemGroup>
+    
+</Project>

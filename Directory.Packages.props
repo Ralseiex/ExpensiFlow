@@ -1,0 +1,30 @@
+﻿<Project>
+  <ItemGroup>
+    <PackageVersion Include="Ardalis.Result" Version="9.1.0" />
+    <PackageVersion Include="Ardalis.Result.AspNetCore" Version="9.1.0" />
+    <PackageVersion Include="Asp.Versioning.Http" Version="8.1.0" />
+    <PackageVersion Include="MassTransit.Abstractions" Version="8.2.3" />
+    <PackageVersion Include="MassTransit.RabbitMQ" Version="8.2.3" />
+    <PackageVersion Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.7" />
+    <PackageVersion Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
+    <PackageVersion Include="Microsoft.AspNetCore.OpenApi" Version="8.0.7" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.4" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageVersion>
+    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Abstractions" Version="1.0.2" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Http" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
+    <PackageVersion Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+    <PackageVersion Include="Serilog" Version="4.0.0" />
+    <PackageVersion Include="Serilog.AspNetCore" Version="8.0.1" />
+    <PackageVersion Include="StronglyTypedId" Version="0.2.1" />
+    <PackageVersion Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.6.2" />
+    <PackageVersion Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.6.2" />
+    <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="7.6.2" />
+  </ItemGroup>
+</Project>
